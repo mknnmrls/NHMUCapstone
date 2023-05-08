@@ -1,0 +1,57 @@
+{
+  "version": "3.63.27674.0",
+  "course_id": "5YGBSVQGN2s",
+  "title": "Analyzing and Synthesizing Information Scenario",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6arIdhBt8ea",
+      "title": "Scenario Start",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6bTBcpwbxDo",
+      "title": "Organizing Information",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5bpHM0k79nf",
+      "title": "Anaylzing and Synthesizing Information",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6GHPQ86BZgI",
+      "title": "Summary",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6hvlzcHJB3D",
+      "title": "Venn Diagram",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5a8YUJaoGKE",
+      "title": "Drawing Connections",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5qZceKTh2hN",
+      "title": "Chart for Observation",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
